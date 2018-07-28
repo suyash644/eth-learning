@@ -1,0 +1,19 @@
+{
+  "name": "eth-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyash644/eth-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyash644/eth-learning/issues"
+  },
+  "homepage": "https://github.com/suyash644/eth-learning#readme"
+}
